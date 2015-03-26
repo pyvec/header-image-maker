@@ -16,6 +16,9 @@ If you don't like the overlay, you'll need to edit the script – change the fil
 
 ![input](demo-input.jpg)
 
+(public domain image, from [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Albino_Burmese_python.jpg))
+
+
 ### Overlay
 
 ![overlay](overlay.png)
