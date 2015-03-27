@@ -10,6 +10,10 @@ Sample input and output images are included. The output was generated with:
 
 If you don't like the overlay, you'll need to edit the script – change the filename and the window dimensions/position.
 
+## License
+
+MIT. Feel free to use this!
+
 ## Example
 
 ### Input
