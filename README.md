@@ -1,12 +1,12 @@
 This creates header images for our events.
 
 Usage:
-    
+
     $0 IMAGE OUTPUT
 
 Sample input and output images are included. The output was generated with:
 
-    ./overlay.sh logo.png demo.png
+    ./overlay.sh demo-input.jpg demo-output.png
 
 If you don't like the overlay, you'll need to edit the script – change the filename and the window dimensions/position.
 
@@ -14,7 +14,7 @@ If you don't like the overlay, you'll need to edit the script – change the fil
 
 ### Input
 
-![input](logo.png)
+![input](demo-input.jpg)
 
 ### Overlay
 
@@ -22,4 +22,4 @@ If you don't like the overlay, you'll need to edit the script – change the fil
 
 ### Output
 
-![output](demo.png)
+![output](demo-output.png)
