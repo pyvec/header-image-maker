@@ -4,8 +4,8 @@ TOPIC_IMAGE=$1
 OUTPUT=$2
 
 OVERLAY_IMAGE="overlay.png"
-WINDOW_SIZE="123x98"        # {w}x{h}
-WINDOW_OFFSET="+37+70"      # +{x}+{y}
+WINDOW_SIZE="258x169"       # {w}x{h}
+WINDOW_OFFSET="+7+23"       # +{x}+{y}
 
 if [ "$OUTPUT" = "" ]; then
     echo "Usage: $0 IMAGE OUTPUT"
