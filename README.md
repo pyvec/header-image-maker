@@ -12,7 +12,7 @@ If you don't like the overlay, you'll need to edit the script – change the fil
 
 ## Overlay images
 
-You can find "official" overlay images in [`pyvec/resources`](https://github.com/pyvec/resources) repo, specificially in [the `Facebook Event Header` directory](https://github.com/pyvec/resources/tree/master/Design/Facebook%20Event%20Header).
+You can find "official" overlay images for Pyvo meetups in [`pyvec/resources`](https://github.com/pyvec/resources) repo, specificially in [the `Pyvo Facebook Event Header` directory](https://github.com/pyvec/resources/tree/master/Design/Pyvo%20Facebook%20Event%20Header).
 
 ## License
 
